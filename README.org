@@ -1,0 +1,10 @@
+* focus
+
+Customizable FORMAT strings and directives
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/didierverna/focus.git   |
+| commit  | bf2da02  |
+| systems | focus |
+|---------+-------------------------------------------|
+
