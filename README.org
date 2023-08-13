@@ -2,9 +2,10 @@
 
 Customizable FORMAT strings and directives
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/didierverna/focus.git   |
-| commit  | bf2da02  |
-| systems | focus |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/didierverna/focus.git |
+| commit  | bf2da02                                      |
+| systems | (net.didierverna.focus.setup net.didierverna.focus.flv
+ net.didierverna.focus.demos.quotation net.didierverna.focus.core
+ net.didierverna.focus) |
+|---------+----------------------------------------------|
